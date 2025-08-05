@@ -12,9 +12,6 @@ import lombok.Setter;
 
 @Getter
 @Setter
-@AllArgsConstructor
-@NoArgsConstructor
-@RequiredArgsConstructor
 
 @Entity
 public class Book {
